@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32616.157
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ApiTakeGit", "ApiTakeGit\ApiTakeGit.csproj", "{8E370960-BD4B-40E5-969F-2F1B5D6A54A1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8E370960-BD4B-40E5-969F-2F1B5D6A54A1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8E370960-BD4B-40E5-969F-2F1B5D6A54A1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8E370960-BD4B-40E5-969F-2F1B5D6A54A1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8E370960-BD4B-40E5-969F-2F1B5D6A54A1}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BA0BCC7F-189B-47C8-AB20-274B78707999}
+	EndGlobalSection
+EndGlobal
